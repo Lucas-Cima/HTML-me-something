@@ -1,6 +1,7 @@
-h2 {
+#BeerSchool {
     text-align: center;
 }
+
 h4 {
     text-align: center;
 }
@@ -15,6 +16,3 @@ body {
     background-color: grey;
 }
 
-# gif {
-    float: right;
-}
